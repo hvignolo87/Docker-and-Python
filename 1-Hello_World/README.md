@@ -11,7 +11,7 @@ This command builds an image with the tag hello-world.
 ```
 docker run --name the-container hello-world
 ```
-The --name option gives the posibility to name a container. In this case, the name is *the-container*.
+The --name option gives the posibility to name a container. In this case, the name is *the-container*. The *run* command search locally for the defined image, and if it's not finded tries to pull it from Dockerhub.
 
 3. When the script ends, let's stop the container:
 ```
