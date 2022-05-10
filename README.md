@@ -1,2 +1,2 @@
-# Docker-and-Python
- Examples of Docker usage with Python
+# Docker and Python
+Detailed examples of Docker usage with Python.
