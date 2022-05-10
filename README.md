@@ -1,7 +1,7 @@
 # Docker and Python
 Detailed examples of Docker usage with Python.
 
-In this repository you'll find examples of containerized aplications coded in Python. There are examples that runs with the *docker* command in the CLI and others that are developed with the SDK for Python.
+In this repository you'll find examples of containerized applications coded in Python. There are examples that runs with the *docker* command in the CLI and others that are developed with the SDK for Python.
 
 Docs and references:
 
